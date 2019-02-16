@@ -1,4 +1,5 @@
-import React from "react"
+import React, { Fragment } from "react"
+import { Helmet } from 'react-helmet'
 import { css } from "@emotion/core"
 import { Link, StaticQuery, graphql } from "gatsby"
 
@@ -18,36 +19,43 @@ export default ({ children }) => (
         }
 
     render={data => (
-        <div
-            css={css`
-                margin: 0 auto;
-                max-width: 700px;
-                padding: ${rhythm(2)};
-                padding-top: ${rhythm(1.5)};
-            `}
-            >
-            <Link to={`/`}>
-                <h3
+        <Fragment>
+            <Helmet>
+                <meta charSet="utf-8" />
+                <title>Blog | Terrance Corley</title>
+                <link rel="canonical" href="http://mysite.com/example" />
+            </Helmet>
+            <div
                 css={css`
-                    margin-bottom: ${rhythm(2)};
-                    display: inline-block;
-                    font-style: normal;
+                    margin: 0 auto;
+                    max-width: 700px;
+                    padding: ${rhythm(2)};
+                    padding-top: ${rhythm(1.5)};
                 `}
                 >
-                {data.site.siteMetadata.title}
-                </h3>
-            </Link>
-            <Link
-                to={`/about/`}
-                css={css`
-                float: right;
-                `}
-            >
-                About
-            </Link>
-            {children}
-            </div>
-        )}
+                <Link to={`/`}>
+                    <h3
+                    css={css`
+                        margin-bottom: ${rhythm(2)};
+                        display: inline-block;
+                        font-style: normal;
+                    `}
+                    >
+                    {data.site.siteMetadata.title}
+                    </h3>
+                </Link>
+                <Link
+                    to={`/about/`}
+                    css={css`
+                    float: right;
+                    `}
+                >
+                    About
+                </Link>
+                {children}
+                </div>
+        </Fragment>
+    )}
     />
 )
     
