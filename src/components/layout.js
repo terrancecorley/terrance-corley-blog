@@ -44,14 +44,15 @@ export default ({ children }) => (
                     {data.site.siteMetadata.title}
                     </h3>
                 </Link>
-                <Link
-                    to={`/about/`}
-                    css={css`
-                    float: right;
-                    `}
+                <a
+                    href="https://terrancecorley.com"
+                    rel="noreferrer noopener"
+                    style={{
+                        float: 'right'
+                    }}
                 >
-                    About
-                </Link>
+                    Home
+                </a>
                 {children}
                 </div>
         </Fragment>
