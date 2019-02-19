@@ -5,7 +5,8 @@ date: "2018-07-16"
 
 **Blake Connally is a software developer, entrepreneur, investor, owner of an online entrepreneurship training company, as well as founder and president of a software development and design company. Oh yeah, and he’s not even 25. Today he takes a break from cruising his Suzuki GSX-R600 to the beaches of Miami to give us some insight.**  
 
-![Profile of Blake Connally](../assets/images/2018-07-16/blake.jpeg)
+<center><img src="../assets/images/2018-07-16/blake.jpeg" alt="Profile of Blake Connally" style="display: inline-block; margin: 0 auto; text-align: center;"/></center>  
+</br>
 
 **Take us to the beginning. I know you started out young, but how young? What influenced you to pick up a computer and learn code?**
 
