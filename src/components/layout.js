@@ -33,7 +33,7 @@ export default ({ children }) => (
                     margin-bottom: 2.5em;
 
                     @media (max-width: 32em) {
-                        height: 160px;
+                        height: 190px;
                         margin-bottom: 2em;
                     }
 
