@@ -1,6 +1,7 @@
 ---
 title: "Software Developer Interview | Blake Connally"
 date: "2018-07-16"
+content: "In this interview, Terrance Corley interviews Blake Connally, a software developer who built his own digital empire and discusses how he went about becomming his own boss."
 ---
 
 **Blake Connally is a software developer, entrepreneur, investor, owner of an online entrepreneurship training company, as well as founder and president of a software development and design company. Oh yeah, and he’s not even 25. Today he takes a break from cruising his Suzuki GSX-R600 to the beaches of Miami to give us some insight.**  

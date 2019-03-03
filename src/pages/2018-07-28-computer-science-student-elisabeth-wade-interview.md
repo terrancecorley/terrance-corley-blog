@@ -2,6 +2,7 @@
 title: "Computer Science Student Interview | Elisabeth Wade
 "
 date: "2018-07-28"
+content: "In this interview, Terrance Corley interviews computer science student Elisabeth Wade, who gives some great insight on majoring in computer science with the desire to become a video game programmer."
 ---
 
 **Elisabeth Wade is a computer science student from Norway that’s currently studying abroad in Australia. No stranger to giving tips and advice to the dev community, Elisabeth has taken the time to give us some insight on her life and to share some more awesome tips!**

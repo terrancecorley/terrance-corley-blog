@@ -1,6 +1,7 @@
 ---
 title: "Felix Gray Computer Glasses: Your eyes will thank you."
 date: "2018-01-21"
+content: "In this review of Felix Gray computer glasses, Terrance Corley gives his personal review of the product."
 ---
 
 *Disclaimer: This post is not sponsored by Felix Gray and all opinions on this product are my own.*

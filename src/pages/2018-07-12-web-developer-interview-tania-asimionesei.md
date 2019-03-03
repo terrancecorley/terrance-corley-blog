@@ -1,6 +1,7 @@
 ---
 title: "Web Developer Interview | Tania Asimionesei"
 date: "2018-07-12"
+content: "In this interview, Terrance Corley interviews web developer Tania Asimionesei, who provides insight on the lifestyle of a remote web developer and the pros and cons associated with it."
 ---
 
 **Tania is currently working remotely as a front-end web developer and traveling the world! She was kind enough to interview with me between her travels. Continue reading below for great advice related to working remotely, traveling, and good life tips.**  
